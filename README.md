@@ -27,6 +27,6 @@ My GitHub is composed of two different folders - One that contains my personal d
 
 ## My Skills 💻
 - **Data Visualization**  |  Grafana, Tableau, Streamlit, Mode Analytics, Excel
-- Languages  |  SQL, Python (Pandas, NumPy, Scikit-learn, matplotlib)
-- Data Stores  |  Snowflake, InfluxDB, Pinot, Kafka
-- Toolls & Tech  |  DBT, Jira, Bitbucket, Git, Airflow, Asana, Jupyter, AWS, Confluence, Miro/Figma, Slack
+- **Languages**  |  SQL, Python (Pandas, NumPy, Scikit-learn, matplotlib)
+- **Data Stores**  |  Snowflake, InfluxDB, Pinot, Kafka
+- **Toolls & Tech**  |  DBT, Jira, Bitbucket, Git, Airflow, Asana, Jupyter, AWS, Confluence, Miro/Figma, Slack
