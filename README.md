@@ -1,6 +1,8 @@
 ## Hi, I'm Brandon 👋
 
 ![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+## About Me 👋
+
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 Data Analyst with over six years of professional experience working at mid-size to large startups in the CPG, mobile app, and programmatic advertising spaces. I currently work as a Product Data Analyst Team Lead at Fetch, where I generate data-driven product recommendations that help to drive more engaging user experiences.
 
@@ -17,7 +19,7 @@ I am a very highly creative, hard-working, and driven individual, with an eye fo
 ## Navigating My GitHub 
 
 
-## ⚡ Skills
+## ⚡ Skills 💻
 - Node.js
 - TypeScript
 - 
