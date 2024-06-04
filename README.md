@@ -13,11 +13,13 @@ I graduated from Stevens Institute of Technology with a Master of Engineering in
 I am a very highly creative, hard-working, and driven individual, with an eye for detail, seeking to explore new career opportunities in data analytics. Please feel free to reach out to me at brandon.levan1014@gmail.com if you have any opportunities that you think may be of interest to me given my work experience or background. Thank you
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-levan/)](https://www.linkedin.com/in/brandon-levan/)
 [![Linkedin Badge](https://www.linkedin.com/in/brandon-levan/)
 
 
 ## ⚡ Skills:
 - Node.js
 - TypeScript
+- 
 - NestJS
 - Ethereum
