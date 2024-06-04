@@ -1,5 +1,3 @@
-![Header](./Assets/github_header.png)
-
 ## About Me 👋
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
@@ -18,7 +16,7 @@ I am a very highly creative, hard-working, and driven individual, with an eye fo
 
 
 
-## Navigating My GitHub 
+## Navigating My GitHub 🗺
 My GitHub is composed of two different folders - One that contains my personal data science projects and one that hosts the projects I completed to graduate from the TripleTen Data Science Bootcamp
 - [Personal Data Science Projects](https://github.com/brandon-levan/Personal-Data-Science-Projects)
   - fasfa
