@@ -1,4 +1,5 @@
 ![Header image]([https://github.com/brandon-levan/brandon-levan/blob/main/Assets/github_header.png](https://github.com/brandon-levan/brandon-levan/blob/main/Assets/github_header.png))
+![Header](./Assets/github_header.png)
 ## About Me 👋
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
