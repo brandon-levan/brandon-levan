@@ -16,9 +16,13 @@ I am a very highly creative, hard-working, and driven individual, with an eye fo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-levan/)](https://www.linkedin.com/in/brandon-levan/)
 
 ## Navigating My GitHub 
+My GitHub is composed of two different folders - One that contains my personal data science projects and one that hosts the projects I completed to graduate from the TripleTen Data Science Bootcamp
+- Personal Data Science Projects
+  - fasfa
+- TripleTen Data Science Projects
+  - fasfa
 
-
-## ⚡ Skills 💻
+## My Skills 💻
 - Node.js
 - TypeScript
 - 
