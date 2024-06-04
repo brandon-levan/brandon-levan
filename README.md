@@ -13,7 +13,7 @@ I graduated from Stevens Institute of Technology with a Master of Engineering in
 
 I am a very highly creative, hard-working, and driven individual, with an eye for detail, seeking to explore new career opportunities in data analytics. Please feel free to reach out to me at brandon.levan1014@gmail.com if you have any opportunities that you think may be of interest to me given my work experience or background. Thank you
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-levan/)](https://www.linkedin.com/in/brandon-levan/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/brandon-levan/)](https://www.linkedin.com/in/brandon-levan/)
 
 ## Navigating My GitHub 
 My GitHub is composed of two different folders - One that contains my personal data science projects and one that hosts the projects I completed to graduate from the TripleTen Data Science Bootcamp
