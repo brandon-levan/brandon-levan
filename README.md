@@ -23,11 +23,10 @@ My GitHub is composed of two different folders - One that contains my personal d
 - [Personal Data Science Projects](https://github.com/brandon-levan/Personal-Data-Science-Projects)
   - fasfa
 - [TripleTen Data Science Projects](https://github.com/brandon-levan/TripleTen-Data-Science-Projects)
-  - [TripleTen](https://tripleten.com/data-science/) provides an eight-month long, project-based online course that provides rigorous course work and education in machine learning, data exploration, statistical data analysis, python programming, time series forecasting, A/B testing, natural language processing, computer vision, and more. 
+  - [TripleTen](https://tripleten.com/data-science/) provides an eight-month long, project-based online course that provides rigorous course work and education in machine learning, data exploration, statistical data analysis, python programming, time series forecasting, A/B testing, natural language processing, computer vision, and more. The eight month long program is split into sprints – two- or- three-week-long periods that cover separate technical topics. Each sprint includes theory, coding exercises, and projects where students can apply their skills and create functional applications, services, and features. This repository will host all of my projects that I completed at the end of each sprint.
 
 ## My Skills 💻
-- Node.js
-- TypeScript
-- 
-- NestJS
-- Ethereum
+- Data Visualization | Grafana, Tableau, Streamlit, Mode Analytics, Excel
+- Languages | SQL, Python (Pandas, NumPy, Scikit-learn, matplotlib)
+- Data Stores | Snowflake, InfluxDB, Pinot, Kafka
+- Toolls & Tech | DBT, Jira, Bitbucket, Git, Airflow, Asana, Jupyter, AWS, Confluence, Miro/Figma, Slack
