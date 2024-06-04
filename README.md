@@ -20,10 +20,10 @@ I am a very highly creative, hard-working, and driven individual, with an eye fo
 
 ## Navigating My GitHub 
 My GitHub is composed of two different folders - One that contains my personal data science projects and one that hosts the projects I completed to graduate from the TripleTen Data Science Bootcamp
-- Personal Data Science Projects
+- [Personal Data Science Projects](https://github.com/brandon-levan/Personal-Data-Science-Projects)
   - fasfa
-- TripleTen Data Science Projects
-  - fasfa
+- [TripleTen Data Science Projects](https://github.com/brandon-levan/TripleTen-Data-Science-Projects)
+  - [TripleTen](https://tripleten.com/data-science/) provides an eight-month long, project-based online course that provides rigorous course work and education in machine learning, data exploration, statistical data analysis, python programming, time series forecasting, A/B testing, natural language processing, computer vision, and more. 
 
 ## My Skills 💻
 - Node.js
