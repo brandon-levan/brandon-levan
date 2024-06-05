@@ -28,3 +28,6 @@ My GitHub is composed of two different folders - One that contains my personal d
 - **Languages**  |  SQL, Python (Pandas, NumPy, Scikit-learn, matplotlib)
 - **Data Stores**  |  Snowflake, InfluxDB, Pinot, Kafka
 - **Toolls & Tech**  |  DBT, Jira, Bitbucket, Git, Airflow, Asana, Jupyter, AWS, Confluence, Miro/Figma, Slack
+
+## What I'm Currently Working On *(as of 6/5/2024)*
+I started the TripleTen Part-time Data Science Bootcamp on January 8th, 2024 and I just recently completed the course on May 28th, 2024. At the moment, I am updating my GitHub profile to include all of the projects I've completed, both personal and through TripleTen, so that I can share my work with the world. After I finish updating my GitHub profile with my most recent work, I may try to obtain a certificaion for a visualization tool like Tableau. You can always view my most up-to-date projects and work experience on my resume, which can be found on my [data science blog](https://static1.squarespace.com/static/5ff52590a0367f287d83d409/t/662115d32e60507cf476b30c/1713444307261/Brandon_Levan_Resume.pdf) or on my [linkedin profile](https://www.linkedin.com/in/brandon-levan/). 
